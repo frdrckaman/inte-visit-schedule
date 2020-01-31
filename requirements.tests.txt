@@ -1,0 +1,13 @@
+inte-subject
+edc-action-item
+django-crypto-fields
+edc-registration
+edc-appointment
+edc-metadata
+inte-screening
+edc-dashboard
+edc-subject-dashboard
+edc-test-utils
+inte-sites
+inte-lists
+inte-ae

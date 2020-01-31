@@ -1,0 +1,4 @@
+[run]
+include = inte_visit_schedule/*
+omit = inte_visit_schedule/tests/*
+branch = 1
